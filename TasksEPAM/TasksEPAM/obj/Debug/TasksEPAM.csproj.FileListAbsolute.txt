@@ -1,0 +1,6 @@
+C:\Users\Администратор.WIN-IP4GC9IR9GT\Desktop\TasksEPAM\TasksEPAM\bin\Debug\TasksEPAM.exe.config
+C:\Users\Администратор.WIN-IP4GC9IR9GT\Desktop\TasksEPAM\TasksEPAM\bin\Debug\TasksEPAM.exe
+C:\Users\Администратор.WIN-IP4GC9IR9GT\Desktop\TasksEPAM\TasksEPAM\bin\Debug\TasksEPAM.pdb
+C:\Users\Администратор.WIN-IP4GC9IR9GT\Desktop\TasksEPAM\TasksEPAM\obj\Debug\TasksEPAM.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.WIN-IP4GC9IR9GT\Desktop\TasksEPAM\TasksEPAM\obj\Debug\TasksEPAM.exe
+C:\Users\Администратор.WIN-IP4GC9IR9GT\Desktop\TasksEPAM\TasksEPAM\obj\Debug\TasksEPAM.pdb
